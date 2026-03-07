@@ -1,0 +1,5 @@
+{
+  "name": "khbd",
+  "description": "Ứng dụng AI tạo giáo án Hóa học THPT theo chuẩn Công văn 5512",
+  "requestFramePermissions": []
+}
